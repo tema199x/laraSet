@@ -6,25 +6,25 @@
         <div class="col-6 col-md">
             <h5>tema199x</h5>
             <ul class="list-unstyled text-small">
-                <li class="mb-1"><a class="link-secondary text-decoration-none" href="/">Главная</a></li>
-                <li class="mb-1"><a class="link-secondary text-decoration-none" href="/about">О нас</a></li>
-                <li class="mb-1"><a class="link-secondary text-decoration-none" href="/contact">Контакты</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('home') }}">Главная</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('about') }}">О нас</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('contact') }}">Контакты</a></li>
             </ul>
         </div>
         <div class="col-6 col-md">
             <h5>tema199x</h5>
             <ul class="list-unstyled text-small">
-                <li class="mb-1"><a class="link-secondary text-decoration-none" href="/">Главная</a></li>
-                <li class="mb-1"><a class="link-secondary text-decoration-none" href="/about">О нас</a></li>
-                <li class="mb-1"><a class="link-secondary text-decoration-none" href="/contact">Контакты</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('home') }}">Главная</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('about') }}">О нас</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('contact') }}">Контакты</a></li>
             </ul>
         </div>
         <div class="col-6 col-md">
             <h5>tema199x</h5>
             <ul class="list-unstyled text-small">
-                <li class="mb-1"><a class="link-secondary text-decoration-none" href="/">Главная</a></li>
-                <li class="mb-1"><a class="link-secondary text-decoration-none" href="/about">О нас</a></li>
-                <li class="mb-1"><a class="link-secondary text-decoration-none" href="/contact">Контакты</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('home') }}">Главная</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('about') }}">О нас</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('contact') }}">Контакты</a></li>
             </ul>
         </div>
     </div>
