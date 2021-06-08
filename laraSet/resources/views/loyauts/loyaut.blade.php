@@ -18,6 +18,7 @@
             @endif
             <div class="container">
                 <div class="row">
+                    @include('inc.messages')
                     <div class="col-8">
                         @yield('content')
                     </div>
