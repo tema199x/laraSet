@@ -23,7 +23,7 @@
             <textarea type="message" name="message" id="message" class="form-control"></textarea>
         </div>
         <div class="d-grid gap-2">
-            <button class="btn btn-secondary" type="submit">Button</button>
+            <button class="btn btn-secondary" type="submit">Отправить</button>
         </div>
     </form>
 @endsection

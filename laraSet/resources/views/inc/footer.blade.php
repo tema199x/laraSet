@@ -9,6 +9,7 @@
                 <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('home') }}">Главная</a></li>
                 <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('about') }}">О нас</a></li>
                 <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('contact') }}">Контакты</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('contact-data') }}">Сообщения</a></li>
             </ul>
         </div>
         <div class="col-6 col-md">
@@ -17,6 +18,7 @@
                 <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('home') }}">Главная</a></li>
                 <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('about') }}">О нас</a></li>
                 <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('contact') }}">Контакты</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('contact-data') }}">Сообщения</a></li>
             </ul>
         </div>
         <div class="col-6 col-md">
@@ -25,6 +27,7 @@
                 <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('home') }}">Главная</a></li>
                 <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('about') }}">О нас</a></li>
                 <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('contact') }}">Контакты</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="{{ route('contact-data') }}">Сообщения</a></li>
             </ul>
         </div>
     </div>
